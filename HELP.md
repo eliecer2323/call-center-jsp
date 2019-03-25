@@ -1,9 +1,3 @@
-# Getting Started
+Para acceder a la funcionalidad ejecute el proyecto y dirijase a la url localhost:8080/index
 
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-
+En la carpeta test encontrara una prueba unitaria que lanza 20 llamadas
