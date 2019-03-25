@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: prueba-almundo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JorgeEliecerSierra
+Implementation-Vendor-Id: org.jorge.almundo
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/prueba-almundo
+Created-By: Maven Integration for Eclipse
+
